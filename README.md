@@ -86,7 +86,3 @@ epoch{at}posteo.de | No support for used mods! Send your Server-IP. I will visit
 ## Licences
 
 Note the respective licenses of the files from the other GitHub Repositories. Thx to at all publishers and [EpochModTeam](https://github.com/EpochModTeam/DayZ-Epoch)
-
-## _old_
-
-[Epoch-OriginsMod-Server-Package - Version 1.0](https://github.com/h1gg1baby/Epoch-OriginsMod-Server-Package)
