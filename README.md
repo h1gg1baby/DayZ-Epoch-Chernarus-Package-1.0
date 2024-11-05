@@ -13,8 +13,6 @@ Epoch-Antihack-Admin-Tools - Compatible with DayZ Epoch 1.0.7 + | [GitHub repo](
 
 DZAI 2.2.5 - AI Addon for DayZ Epoch 1.0.7+ | [GitHub repo](https://github.com/oiad/DZAI)
 
-DZMS 2.1 - AI Addon for DayZ Epoch 1.0.7+ | [GitHub repo](https://github.com/worldwidesorrow/DZMS-DayZMissionSystem)
-
 WICKED AI 2.2.7 | [GitHub repo](https://github.com/f3cuk/WICKED-AI)
 
 ESSV3 | [GitHub repo](https://github.com/AirwavesMan/ESSV3)

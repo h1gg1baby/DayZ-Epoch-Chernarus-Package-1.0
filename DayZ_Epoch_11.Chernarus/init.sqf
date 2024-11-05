@@ -78,7 +78,6 @@ if (!isDedicated) then {
 	
 	if (dayz_townGenerator) then {execVM "\z\addons\dayz_code\compile\client_plantSpawner.sqf";};
 	call compile preprocessFileLineNumbers "spawn\init.sqf";
-    "PVCDZ_veh_Init" addPublicVariableEventHandler {if ((_this select 1) isKindOf "AllVehicles") then {(_this select 1) addEventHandler ["HandleDamage",{_this call fnc_veh_handleDam}];};};
 	execFSM "\z\addons\dayz_code\system\player_monitor.fsm";
     call compile preprocessFileLineNumbers "dayz_code\DZAI_Client\dzai_initclient.sqf";
 	//[false,12] execVM "\z\addons\dayz_code\compile\local_lights_init.sqf";
